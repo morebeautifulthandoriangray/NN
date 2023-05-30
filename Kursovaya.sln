@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kursovaya", "Kursovaya\Kursovaya.csproj", "{34946180-909E-4FA1-A065-22CBD99B406C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalClassification_ConsoleApp", "AnimalClassification_ConsoleApp\AnimalClassification_ConsoleApp.csproj", "{C7854A6C-41FD-429C-8878-1CA06CF58874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34946180-909E-4FA1-A065-22CBD99B406C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34946180-909E-4FA1-A065-22CBD99B406C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34946180-909E-4FA1-A065-22CBD99B406C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34946180-909E-4FA1-A065-22CBD99B406C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7854A6C-41FD-429C-8878-1CA06CF58874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7854A6C-41FD-429C-8878-1CA06CF58874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7854A6C-41FD-429C-8878-1CA06CF58874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7854A6C-41FD-429C-8878-1CA06CF58874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEEFC676-299F-4030-826B-7E58AC4D6519}
+	EndGlobalSection
+EndGlobal
